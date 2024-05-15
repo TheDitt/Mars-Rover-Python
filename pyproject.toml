@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mars-rover-python"
+version = "0.1.0"
+description = ""
+authors = ["Thomas Dittmer <217936+TheDitt@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
