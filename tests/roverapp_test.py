@@ -1,4 +1,4 @@
-from mars_rover_python.app import RoverApp
+from mars_rover.app import RoverApp
 
 
 def test_answer_failure():
